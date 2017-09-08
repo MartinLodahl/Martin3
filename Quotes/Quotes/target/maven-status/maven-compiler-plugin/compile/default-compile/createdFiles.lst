@@ -1,0 +1,9 @@
+exception\ErrorMessage.class
+rest\APIResource.class
+rest\APIResource$1.class
+exception\QuoteNotFoundExceptionMapper.class
+rest\ApplicationConfig.class
+rest\Quote.class
+exception\GenericExceptionMapper.class
+exception\QuoteNotFoundException.class
+exception\NotFoundExceptionMapper.class
